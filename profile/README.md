@@ -1,4 +1,4 @@
-# Chanma Investment
+# Chanma Investment Research
 
 Open-source investment research and tools — built for myself, shared with everyone.
 
