@@ -14,7 +14,7 @@ I'm an independent investor and engineer building the analytics, dashboards and 
 
 - Site — <https://chanmainvest.github.io/> · <https://hevangel.com/>
 - Newsletter — [Substack](https://hevangel.substack.com/) (free) · [Patreon](https://www.patreon.com/c/hevangel) (members)
-- Social — [Threads @chanmainvest](https://www.threads.com/@chanmainvest)
+- Social — [Threads](https://www.threads.com/@chanmainvest) · [Facebook](https://www.facebook.com/profile.php?id=100083385996881)
 - Contact — <chanmainvest@hevangel.com>
 
 All repositories are MIT-licensed. Donations are welcome but never required.
