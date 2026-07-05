@@ -10,9 +10,11 @@ I'm an independent investor and engineer building the analytics, dashboards and 
 - **[tutorial](https://github.com/chanmainvest/tutorial)** — A 52-week investment course grounded in the CFA curriculum, localised in English, 香港, 台灣 and 中国.
 - **[trade_history](https://github.com/chanmainvest/trade_history)** — Work in progress: multi-broker statement ingestion, trade ledger, P&L, monthly snapshots and portfolio research dashboards.
 - **[bloomberg-mockup](https://github.com/chanmainvest/bloomberg-mockup)** — Work in progress: interactive Bloomberg Terminal-style mockup for AMD US Equity, built from real terminal reference screenshots.
+- **[market_data](https://github.com/chanmainvest/market_data)** — Stock, ETF, bond and macro-data scrapers pulling from Yahoo Finance, FRED, Finviz, CBOE, Macrotrends and more.
+- **[knowledge_base](https://github.com/chanmainvest/knowledge_base)** — Personal investment knowledge base: scrapes blogs, YouTube, HKEJ, Yahoo HK, Master Insight, Patreon and Substack into markdown, then an LLM extracts structured views and predictions behind a search + leaderboard webapp.
 - **[wyandanch-library](https://github.com/chanmainvest/wyandanch-library)** — Open-source finance education library translated into Chinese.
 - **[reading_library](https://github.com/chanmainvest/reading_library)** — English-only books and market references for investors to learn, packaged as offline-ready HTML.
-- **In the pipeline** — Pundit Knowledge Base · YouTube channel.
+- **In the pipeline** — YouTube channel.
 
 ## Links
 
