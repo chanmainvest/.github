@@ -1,22 +1,12 @@
-# Chanma Investment Research
+# .github Organization Configs
 
-Open-source investment research and tools — built for myself, shared with everyone.
+This repository is a special repository used to store organization-wide settings, issue templates, and profile branding for our GitHub Organization.
 
-I'm an independent investor and engineer building the analytics, dashboards and educational material I wanted for my own portfolio. Since the work is already done, I open-source it so anyone can use, learn from, or contribute to it.
+## 🏢 Organization Profile
+The public face of our organization is configured via the profile README. 
+* **Real Profile Content:** Editing the text displayed on our main organization landing page must be done inside the [`.github/profile/README.md`](./profile/README.md) file.
 
-## Projects
-
-- **[portfolio_dashboard](https://github.com/chanmainvest/portfolio_dashboard)** — Bloomberg-style portfolio analytics: risk metrics, options-aware exposure, dual-currency, live market data.
-- **[tutorial](https://github.com/chanmainvest/tutorial)** — A 52-week investment course grounded in the CFA curriculum, localised in English, 香港, 台灣 and 中国.
-- **In the pipeline** — Trade History & P&L · Pundit Knowledge Base · YouTube channel.
-
-## Links
-
-- Site — <https://chanmainvest.github.io/> · <https://hevangel.com/>
-- Newsletter — [Substack](https://hevangel.substack.com/) (free) · [Patreon](https://www.patreon.com/c/hevangel) (members)
-- Social — [Threads](https://www.threads.com/@chanmainvest) · [Facebook](https://www.facebook.com/chanmainvest)
-- Contact — <chanmainvest@hevangel.com>
-
-All repositories are MIT-licensed. Donations are welcome but never required.
-
-> Educational and informational only — not investment advice.
+## 🛠️ Repository Contents
+* `/profile/README.md` - The public landing page markdown for the organization.
+* `/.github/workflows/` - (Optional) Shared GitHub Actions workflows used across the organization.
+* `/ISSUE_TEMPLATE/` - (Optional) Default templates for creating issues in any of our repositories.
